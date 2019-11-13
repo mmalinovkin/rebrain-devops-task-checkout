@@ -1,0 +1,1 @@
+This is the Git repo of the official nginx.conf configuration file for nginx application.
